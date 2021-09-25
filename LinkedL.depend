@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1500170444 source:d:\documents\documents of programming\linkedl\linkedl.cpp
+	"LinkedL.h"
+	<iostream>
+
+1500171972 d:\documents\documents of programming\linkedl\linkedl.h
+	"node.h"
+
+1500170497 source:d:\documents\documents of programming\linkedl\main.cpp
+	<iostream>
+	"LinkedL.h"
+
+1500142307 d:\documents\documents of programming\linkedl\node.h
+	<iostream>
+
+1500172430 source:d:\documents\documents of programming\data structure and algorithum\using c++\lab\linkedl\linkedl.cpp
+	"LinkedL.h"
+	<iostream>
+
+1500171972 d:\documents\documents of programming\data structure and algorithum\using c++\lab\linkedl\linkedl.h
+	"node.h"
+
+1500142307 d:\documents\documents of programming\data structure and algorithum\using c++\lab\linkedl\node.h
+	<iostream>
+
+1500170497 source:d:\documents\documents of programming\data structure and algorithum\using c++\lab\linkedl\main.cpp
+	<iostream>
+	"LinkedL.h"
+
